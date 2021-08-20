@@ -1,0 +1,13 @@
+{
+  "title": "First Katacoda Training",
+  "description": "",
+  "courses": [
+    {
+      "pathway_id": "saikiranchalla",
+      "title": "Hello World Scenario",
+      "id": "hello-world",
+      "course_id": "hello-world",
+      "description": "Your First Scenario"
+    }
+  ]
+}
